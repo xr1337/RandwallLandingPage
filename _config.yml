@@ -36,23 +36,23 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Daily Photos
-    description                           : Get Random Photos from your gallery every day.
+    description                           : Relive your forgotten memories with new daily Photos.
     fontawesome_icon_name                 : magic
 
   - title                                 : Online wallpapers
-    description                           : Get cool online wallpapers such as reddit
+    description                           : Choose wallpapers from online communities such as Reddit. More communities are in coming soon.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Shortcuts integration
-    description                           : Designed for Shortcuts. Setup automation or speak to siri to randomly change your wallpaper.
+    description                           : Designed for Shortcuts. Run automation to randomly change your wallpaper.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Simple interface
-    description                           : Designed for simplicity in mind.
+  - title                                 : Performance
+    description                           : Tuned for performance. Shortcuts will never crash regardless of album size.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy 1-2-3 setup
-    description                           : Choose a photo set, import the shortcut and change the wallpaper.
+  - title                                 : Easy setup
+    description                           : Only 3 steps needed. Choose a photo set, import the shortcut and tap on the shortcut.
     fontawesome_icon_name                 : adjust
 
   - title                                 : # New Feature Title
